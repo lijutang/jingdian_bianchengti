@@ -1,7 +1,11 @@
 package main
 
 import "fmt"
-
+/*
+	正整数n若是它平方数的尾部，则称n为同构数。
+	例如：5的平方数是25，且5出现在25的右侧，
+	那么5就是一个同构数。
+*/
 func main(){
 	var i,j,k int
 	k =10
